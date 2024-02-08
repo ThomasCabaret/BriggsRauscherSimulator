@@ -10,4 +10,4 @@ dependencies:
   - notebook=6.2.0
   - pip
   - pip:
-      - ipython==7.21.0  # ipython est nécessaire pour IPython.display
+      - ipython==7.21.0
